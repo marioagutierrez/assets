@@ -1,0 +1,9 @@
+"name": "Pipemoon",
+    "website": "https://www.pipemoon.com/",
+    "description": "Pipemoon is a token issued by Pipemoon team.",
+    "explorer": "https://bscscan.com/token/0x2e21232c021c925b9b9e117a2024588300dbecf0",
+    "type": "BEP20",
+    "symbol": "Pipemoon",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x2e21232c021c925b9b9e117a2024588300dbecf0"
